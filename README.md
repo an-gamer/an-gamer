@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @an-gamer
-- 👀 I’m interested in learn something different 
-- 🌱 I’m currently learning nothing😑
+- let name="AN GAMER"
+- const DOB='14-nov-2006'
+- let Dream="nothing"
+
+
+ ||A USELESS HUMAN|| 
+
 
 
 <!---
